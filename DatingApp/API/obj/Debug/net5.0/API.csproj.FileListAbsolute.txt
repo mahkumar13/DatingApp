@@ -55,3 +55,10 @@ C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm
 C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahkumar13\Desktop\Demo\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
